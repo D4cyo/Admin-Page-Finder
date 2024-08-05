@@ -8,7 +8,7 @@ Admin Page Finder script to find admin page in website Use only for legal activi
 ![Screenshot 2024-08-05 184708](https://github.com/user-attachments/assets/1832ffcc-9d21-4967-9817-c8eeaa8f9c75)
 
 # Usage 
-git clone https://github.com/D4cyo/Admin-Page-Finder-.git
-Cd Admin-finder
-python Admin-finder.py 
-Enter the target URL : http/https://example.com
+- git clone https://github.com/D4cyo/Admin-Page-Finder-.git
+- cd Admin-finder
+- python Admin-finder.py 
+- Enter the target URL : http/https://example.com
