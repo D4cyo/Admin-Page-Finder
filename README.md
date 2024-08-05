@@ -12,7 +12,7 @@
 # Usage 
 #### you can use this tool in termux / linux
 
-- git clone 
+- git clone https://github.com/D4cyo/Admin-Page-Finder.git
 - cd Admin-finder
 - python Admin-finder.py 
 - Enter the target URL : http/https://example.com
