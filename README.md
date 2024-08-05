@@ -13,6 +13,6 @@
 #### you can use this tool in termux / linux
 
 - git clone https://github.com/D4cyo/Admin-Page-Finder.git
-- cd Admin-finder
+- cd Admin-Page-Finder
 - python Admin-finder.py 
 - Enter the target URL : http/https://example.com
