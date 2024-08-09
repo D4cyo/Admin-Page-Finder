@@ -1,8 +1,7 @@
 # Admin Page Finder
 #### By D4cyo & L4nd0
 #### Admin Page Finder script to find admin page in website Use only for legal activities!!
-
-## scan admin WordPress,CP
+#### scan admin WordPress,CP,and others
 
 
 # Photo
