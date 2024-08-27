@@ -1,6 +1,13 @@
 from requests import get
 from colorama import Fore
+import os
 
+def clear():
+    if system == 'nt':
+        _ = system('cls')
+    else:
+        _ = system('clear')
+      
 # !!ADMIN PAGE FINDER | by D4cyo And L4nd0 | dont delete this text!!
 
 print(Fore.BLUE + """
