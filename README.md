@@ -11,7 +11,7 @@
 ![Screenshot 2024-08-05 184708](https://github.com/user-attachments/assets/1832ffcc-9d21-4967-9817-c8eeaa8f9c75)
 
 # Usage 
-#### you can use this tool in termux / linux
+#### you can use this tool in termux / linux / or a device that can run python
 
 - git clone https://github.com/D4cyo/Admin-Page-Finder.git
 - cd Admin-Page-Finder
